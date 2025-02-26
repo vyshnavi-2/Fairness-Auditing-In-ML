@@ -4,7 +4,7 @@
 ## Project Overview
 Bias in machine learning models is a big deal, especially when it comes to real-world applications like hiring, lending, and law enforcement. This project focuses on **fairness detection** using the **UCI Adult Income Dataset** to ensure that our models make unbiased predictions across different demographic groups.
 
-We tackle bias using **reweighing**, train multiple classifiers, and evaluate both accuracy and fairness metrics.
+I tackled bias using **reweighing**, trained multiple classifiers, and evaluated both accuracy and fairness metrics.
 
 ---
 
@@ -39,6 +39,7 @@ I used the **UCI Adult Income Dataset**, which contains demographic and income-r
 
 ## Results & Fairness Metrics
 - **Accuracy Comparison**: Models are evaluated based on their accuracy scores.
+  
 - **Fairness Analysis**:
   - **Disparate Impact**: Ratio of positive outcomes for unprivileged vs. privileged groups.
   - **Statistical Parity**: Difference in positive outcome rates between groups.
@@ -46,8 +47,10 @@ I used the **UCI Adult Income Dataset**, which contains demographic and income-r
 ---
 
 ## Visualizations
- **Bar Plot for Model Accuracy**  
- **Confusion Matrix Heatmaps**  
+ **Bar Plot for Model Accuracy** 
+ 
+ **Confusion Matrix Heatmaps** 
+ 
  **Fairness Metric Comparisons**
 
 ---
