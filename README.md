@@ -47,11 +47,11 @@ I used the **UCI Adult Income Dataset**, which contains demographic and income-r
 ---
 
 ## Visualizations
- **Bar Plot for Model Accuracy** 
+ -Bar Plot for Model Accuracy** 
  
- **Confusion Matrix Heatmaps** 
+ -Confusion Matrix Heatmaps** 
  
- **Fairness Metric Comparisons**
+ -Fairness Metric Comparisons**
 
 ---
 
