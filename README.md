@@ -1,4 +1,4 @@
-# Fairness-Detecting-In-ML
+
 # Fairness Detection in Machine Learning
 
 ## Project Overview
